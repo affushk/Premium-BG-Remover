@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Premium BG Remover</string>
+    <string name="title">BG Remover</string>
+    <string name="subtitle">One tap. Clean transparent background.</string>
+    <string name="preview_description">Selected image preview</string>
+    <string name="empty_hint">Select a photo to remove its background</string>
+    <string name="status_ready">Ready • image stays on your device</string>
+    <string name="select_image">Select Image</string>
+    <string name="save_png">Save Transparent PNG</string>
+</resources>
